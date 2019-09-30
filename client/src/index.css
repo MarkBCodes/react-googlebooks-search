@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Kaushan Script", cursive;
+}
+
+.jumbotron {
+  background-color: darkslategray;
+}
+
+.display-4,
+.lead {
+  font-family: "Kaushan Script", cursive;
+  color: whitesmoke;
+}
+
+.btn {
+  font-family: "Kaushan Script", cursive;
+}
